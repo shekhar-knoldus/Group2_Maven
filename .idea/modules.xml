@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assign/Assign.iml" filepath="$PROJECT_DIR$/Assign/Assign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Group2.iml" filepath="$PROJECT_DIR$/Group2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assign/string-api/string-api.iml" filepath="$PROJECT_DIR$/Assign/string-api/string-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assign/string-impl/string-impl.iml" filepath="$PROJECT_DIR$/Assign/string-impl/string-impl.iml" />
+    </modules>
+  </component>
+</project>
